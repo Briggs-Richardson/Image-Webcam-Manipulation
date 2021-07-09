@@ -1,5 +1,9 @@
 # Console Menu-Driven Image and Webcam Manipulation Program
-    
+
+![](strobel-gif.gif)
+![](tiger-example.png)
+![](Menu.png)
+
 The program uses opencv-4.0.0 to store image data in the Mat data type, and iterate through
 images and manipulate pixels from an original image to a modified image via various algorithms
 which detail computations with each individual (and surrounding) RGB values of pixels.
