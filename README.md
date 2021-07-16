@@ -41,14 +41,16 @@ provided by the opencv website.
 > Important Note
 
 If you're using Debian / Ubuntu, you can install the package libopencv-dev and you'll be set!
-
-sudo apt-get install libopencv-dev  
+  sudo apt-get install libopencv-dev
+  
+If you're using Fedora / similar, you can install the package opencv-devel and you'll be set!
+  sudo dnf install opencv-devel
 
 Building and Running
 --------------------
 
 I included a CMakeLists.txt to allow for easy compilation of the program. If you are willing to use
-CMake/Make to run the program, then please follow the steps down below to compile and run the program
+CMake/Make to run the program, then please follow the steps down below to compile and run the program.
 
 1) Create a directory called build inside the project's root directory (where .cpp file is)
 2) cd into build
