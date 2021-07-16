@@ -40,11 +40,11 @@ provided by the opencv website.
 
 > Important Note
 
-If you're using Debian / Ubuntu, you can install the package libopencv-dev and you'll be set!
-  sudo apt-get install libopencv-dev
+If you're using Debian / Ubuntu, you can install the package libopencv-dev and you'll be set! <br /> 
+``sudo apt-get install libopencv-dev``
   
-If you're using Fedora / similar, you can install the package opencv-devel and you'll be set!
-  sudo dnf install opencv-devel
+If you're using Fedora / similar, you can install the package opencv-devel and you'll be set! <br /> 
+``sudo dnf install opencv-devel``
 
 Building and Running
 --------------------
